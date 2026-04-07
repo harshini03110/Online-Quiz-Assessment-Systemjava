@@ -1,6 +1,6 @@
 ## Run the Project
 javac MyQuizProject.java && java MyQuizProject  
-# quiz data stored in quizfile.txt
+## quiz data stored in quizfile.txt
 
 ## Push to GitHub
 
